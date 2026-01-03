@@ -23,7 +23,7 @@ Além disso, o robô foi projetado para participar de atividades práticas e des
 Abaixo está parte do código desenvolvido para o robô.
 Para um melhor entendimento da lógica de automação, consulte o arquivo automacao.py, onde está centralizada a implementação principal do sistema.
 
-O código utiliza:
+Estrutura do Código:
 
 ESP32 como unidade de controle
 
@@ -43,4 +43,4 @@ Reproduzir rotas automaticamente
 
 Interromper a execução em tempo real
 
-(O código completo está disponível abaixo para consulta e estudo.)
+(O código completo está disponível no aqrquivo automacao.py.)
